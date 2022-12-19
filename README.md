@@ -1,0 +1,4 @@
+- nerdtree
+- vim-buftabline
+- vim-devicons
+- onedark
